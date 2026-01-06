@@ -19,7 +19,6 @@ This repository contains the implementation for Out-of-Distribution (OOD) aware 
   - `core/`: Active learning loops and acquisition functions.
   - `utils/`: Data loaders for MNIST, Fashion-MNIST, CIFAR-10, SVHN.
 - `scripts/`: plotting and analysis tools.
-- `results_ood/`: Raw `.npy` metrics.
 - `assets/plots/`: Generated figures.
 - `main_ood.py`: Main entry point for OOD experiments.
 
