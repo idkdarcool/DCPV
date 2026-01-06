@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+tqdm
+wandb
+plotly
+pandas
+
